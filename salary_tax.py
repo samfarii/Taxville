@@ -24,6 +24,6 @@ else:
 yebo = (input("Do you want to see the monthly breakdown ?"))
 
 if yebo in ['Y', 'y', 'yes', 'Yes'] :
-    print("yeaaah")
+    print("yeaaaaaaah")
 else:
     print("Thanks for your time")
